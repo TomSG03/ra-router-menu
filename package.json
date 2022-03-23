@@ -22,7 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://TomSG03.github.io/ra-hooks-use_effect",
+  "homepage": "https://TomSG03.github.io/ra-router-menu",
   "eslintConfig": {
     "extends": [
       "react-app",
